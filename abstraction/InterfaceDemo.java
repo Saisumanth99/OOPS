@@ -1,7 +1,5 @@
 package abstraction;
 
-import java.util.concurrent.ConcurrentHashMap;
-
 interface RestAPI {
     void post();
     void get();
